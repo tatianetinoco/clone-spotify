@@ -1,6 +1,6 @@
 # Clone Spotify - Projeto Guiado (Front-End)
 
-![](D:\Dev\clone-spotify\assets\img\clone-spotify-screenshot.png)
+![ScreenShoot Clone Spotify](https://raw.githubusercontent.com/tatianetinoco/clone-spotify/main/assets/img/clone-spotify-screenshot.png)
 
 
 
