@@ -186,7 +186,7 @@ body{
   transition: all 300ms ease;
 }
 
-.footer-info .footer-info-items .footer-info-item:hover {
+.footer__info .footer__info__items .footer__info__item:hover {
 	color: var(--default-green);
 	cursor: pointer;
 }
@@ -198,11 +198,11 @@ body{
   margin-bottom: 10px;
 }
 
-.footer-info .rights .country p {
+.footer__info .rights .country p {
 	transition: all 300ms ease;
 }
 
-.footer-info .rights .country p:hover {
+.footer__info .rights .country p:hover {
 	color: var(--default-green);
 	cursor: pointer;
 }
